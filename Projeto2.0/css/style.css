@@ -135,7 +135,7 @@ textarea:hover,
 textarea:focus {
   border-color: black;
   background-color: white;
-  color: black;
+  color: wheat;
   font-weight: bold;
 }
 
@@ -150,7 +150,7 @@ figcaption,
 a {
   font-size: 10px;
   text-decoration: none;
-  color: black;
+  color: white;
 }
 
 figure.imagem:hover {
